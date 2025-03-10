@@ -1,6 +1,4 @@
-- Aquí tienes el texto sobre CamelCase convertido a formato Logseq con jerarquía clara:
-  
-  ```
+- ```
   ## CamelCase  
   - Término que hace referencia al uso de mayúsculas **intercaladas** en palabras  
     - Analogía: las mayúsculas forman "jorobas" como un camello  
