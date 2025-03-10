@@ -168,7 +168,7 @@
 :block/parent 
 {:block/uuid #uuid "67cefabf-29ef-4923-85d2-69c227d919e4"}
 :block/uuid #uuid "67cefb7a-d33c-4805-85e9-cbf5745241bb"} 
-{:block/created-at 1741618106505
+{:block/created-at 1741618132286
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -180,7 +180,7 @@
 :scaleLevel "xxl"
 :fill ""
 :type "text"
-:size [9241 2746]
+:size [9241 2602]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
@@ -193,10 +193,10 @@
 :lineHeight 1.2
 :fontSize 60
 :parentId "67cefabf-29ef-4923-85d2-69c227d919e4"
-:nonce 1741618066867
+:nonce 1741618067039
 :italic false
-:text "Aquí tienes una versión simplificada del roadmap para desarrollo frontend basada en **roadmap.sh** y fuentes complementarias, presentada en formato de diagrama textual:\n\n```\n📌 **Ruta Simplificada para Frontend** (basada en roadmap.sh) \n\n1. 📚 **Fundamentos Esenciales**\n   ├── HTML5 (estructura semántica)\n   ├── CSS3 (flexbox, grid, animaciones)\n   └── JavaScript ES6+ (DOM, eventos, fetch API) \n\n2. 🎨 **Profundización en CSS**\n   ├── Frameworks: Bootstrap/Tailwind \n   ├── Preprocesadores: Sass/Less \n   └── Responsive Design (media queries, mobile-first) \n\n3. ⚡ **JavaScript Avanzado**\n   ├── TypeScript/Flow \n   ├── Webpack/Rollup (empaquetadores) \n   └── NPM/Yarn (gestión de paquetes) \n\n4. 🖥️ **Frameworks/Librerías**\n   ├── React (+ Redux/Router) \n   ├── Vue.js (Vuex/Vue Router)\n   └── Angular (opcional)\n\n5. 🛠️ **Herramientas Adicionales**\n   ├── Git/GitHub (control de versiones) \n   ├── Jest/Testing Library (pruebas) \n   └── APIs REST/GraphQL \n```\n\n### 🔑 **Recomendaciones Clave** :\n- **Enfoque progresivo**: Domina cada etapa antes de saltar a la siguiente.\n- **Proyectos prácticos**: Crea portfolios con aplicaciones reales (ej: clon de Netflix, e-commerce).\n- **Recursos**: Usa freeCodeCamp, MDN Web Docs y cursos en Platzi/Udemy para practicar.\n- **Comunidad**: Únete a foros como Dev.to o Discord de roadmap.sh para resolver dudas .\n\n👉 **Nota**: La versión completa de roadmap.sh incluye más detalles como accesibilidad, rendimiento y patrones de diseño, pero esta simplificación cubre el 80% esencial para empezar. Puedes consultar el diagrama interactivo en [roadmap.sh/frontend](https://roadmap.sh/frontend) ."}}
-:block/updated-at 1741618106505})
+:text "```\n📌 **Ruta Simplificada para Frontend** (basada en roadmap.sh) \n\n1. 📚 **Fundamentos Esenciales**\n   ├── HTML5 (estructura semántica)\n   ├── CSS3 (flexbox, grid, animaciones)\n   └── JavaScript ES6+ (DOM, eventos, fetch API) \n\n2. 🎨 **Profundización en CSS**\n   ├── Frameworks: Bootstrap/Tailwind \n   ├── Preprocesadores: Sass/Less \n   └── Responsive Design (media queries, mobile-first) \n\n3. ⚡ **JavaScript Avanzado**\n   ├── TypeScript/Flow \n   ├── Webpack/Rollup (empaquetadores) \n   └── NPM/Yarn (gestión de paquetes) \n\n4. 🖥️ **Frameworks/Librerías**\n   ├── React (+ Redux/Router) \n   ├── Vue.js (Vuex/Vue Router)\n   └── Angular (opcional)\n\n5. 🛠️ **Herramientas Adicionales**\n   ├── Git/GitHub (control de versiones) \n   ├── Jest/Testing Library (pruebas) \n   └── APIs REST/GraphQL \n```\n\n### 🔑 **Recomendaciones Clave** :\n- **Enfoque progresivo**: Domina cada etapa antes de saltar a la siguiente.\n- **Proyectos prácticos**: Crea portfolios con aplicaciones reales (ej: clon de Netflix, e-commerce).\n- **Recursos**: Usa freeCodeCamp, MDN Web Docs y cursos en Platzi/Udemy para practicar.\n- **Comunidad**: Únete a foros como Dev.to o Discord de roadmap.sh para resolver dudas .\n\n👉 **Nota**: La versión completa de roadmap.sh incluye más detalles como accesibilidad, rendimiento y patrones de diseño, pero esta simplificación cubre el 80% esencial para empezar. Puedes consultar el diagrama interactivo en [roadmap.sh/frontend](https://roadmap.sh/frontend) ."}}
+:block/updated-at 1741618132286})
 :pages (
 {:block/uuid #uuid "67cefabf-29ef-4923-85d2-69c227d919e4"
 :block/properties 
@@ -209,7 +209,7 @@
 :nonce 1
 :assets []
 :shapes-index ("80748c30-fdbe-11ef-ba32-35f931fa5615" "a179eab0-fdbe-11ef-ba32-35f931fa5615")}}
-:block/updated-at 1741618106505
+:block/updated-at 1741618132286
 :block/created-at 1741617855929
 :block/type "whiteboard"
 :block/name "pizzara 1 front-end"
