@@ -1,6 +1,4 @@
-- Aquí tienes los dos archivos unificados en un solo markdown con formato Logseq, organizado jerárquicamente y optimizado para su uso en Logseq:
-  
-  ```
+- ```
   ## Temas y Extensiones para Visual Studio Code  
   
   ### Temas Populares  
