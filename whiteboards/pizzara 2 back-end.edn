@@ -8,7 +8,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "67cefc1c-52f6-4fcc-af77-088859964a3c"} 
-{:block/created-at 1741618401617
+{:block/created-at 1741618528394
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -18,37 +18,38 @@
 :collapsed false
 :borderRadius 8
 :index 0
-:scale [1 -1]
+:scale [1 1]
 :pageId "67cefc1c-52f6-4fcc-af77-088859964a3c"
-:scaleLevel "md"
+:scaleLevel "xxl"
 :fill ""
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [200 40.666663506049254]
+:size [600 121.99999051814777]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
 :id "edd04e40-fdbe-11ef-ba32-35f931fa5615"
 :noFill false
-:point [-3040 32]
+:point [-3040 -872]
 :parentId "67cefbfa-6450-4e24-a6e9-acb49fb1d23f"
 :collapsedHeight 0
-:nonce 1741618194991}}
-:block/updated-at 1741618401617} 
-{:block/created-at 1741618491724
+:nonce 1741618195025}}
+:block/updated-at 1741618528394} 
+{:block/created-at 1741618525210
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:isSizeLocked true
 :stroke ""
+:rotation 0
 :borderRadius 0
 :index 1
 :scale [1 1]
-:scaleLevel "md"
+:scaleLevel "xxl"
 :fill ""
 :type "text"
-:size [1810 1018]
+:size [5386 2818]
 :fontFamily "var(--ls-font-family)"
 :strokeType "line"
 :strokeWidth 2
@@ -57,14 +58,14 @@
 :padding 4
 :fontWeight 400
 :noFill true
-:point [-3024 120]
+:point [-3544 -480]
 :lineHeight 1.2
-:fontSize 20
+:fontSize 60
 :parentId "67cefbfa-6450-4e24-a6e9-acb49fb1d23f"
-:nonce 1741618446465
+:nonce 1741618446586
 :italic false
 :text "```\n1. Fundamentos de Programación\n   ├── Aprender un lenguaje backend (Python, Java, JavaScript, etc.)\n   ├── Entender conceptos básicos: variables, bucles, funciones, etc.\n   └── Familiarizarse con Git y GitHub \n\n2. Bases de Datos\n   ├── Aprender SQL (MySQL, PostgreSQL)\n   ├── Entender bases de datos NoSQL (MongoDB)\n   └── Conocer ORM (Object-Relational Mapping) \n\n3. Desarrollo de APIs\n   ├── Aprender HTTP y verbos (GET, POST, PUT, DELETE)\n   ├── Crear APIs RESTful\n   └── Implementar autenticación (JWT, OAuth) \n\n4. Frameworks Backend\n   ├── Elegir un framework (Django para Python, Spring para Java, Express para Node.js)\n   ├── Aprender a estructurar proyectos (MVC, microservicios)\n   └── Implementar pruebas unitarias y de integración \n\n5. Servidores y Despliegue\n   ├── Entender servidores web (Nginx, Apache)\n   ├── Aprender Docker y Kubernetes\n   └── Desplegar aplicaciones en la nube (AWS, Azure, Google Cloud) \n\n6. Prácticas Avanzadas\n   ├── Aprender WebSockets para comunicación en tiempo real\n   ├── Implementar colas de mensajes (RabbitMQ, Kafka)\n   └── Optimizar rendimiento y seguridad \n```\n\n### Explicación del Diagrama:\n1. **Fundamentos de Programación**: Comienza con un lenguaje backend y domina los conceptos básicos de programación. Git es esencial para el control de versiones.\n2. **Bases de Datos**: Aprende a manejar datos con SQL y NoSQL, y cómo interactuar con ellos usando ORM.\n3. **Desarrollo de APIs**: Crea APIs RESTful y asegúralas con métodos de autenticación modernos.\n4. **Frameworks Backend**: Usa frameworks para acelerar el desarrollo y sigue buenas prácticas de arquitectura.\n5. **Servidores y Despliegue**: Aprende a configurar servidores y a desplegar aplicaciones en la nube.\n6. **Prácticas Avanzadas**: Profundiza en temas como WebSockets y optimización para aplicaciones más complejas."}}
-:block/updated-at 1741618491724})
+:block/updated-at 1741618525210})
 :pages (
 {:block/uuid #uuid "67cefbfa-6450-4e24-a6e9-acb49fb1d23f"
 :block/properties 
@@ -77,7 +78,7 @@
 :nonce 1
 :assets []
 :shapes-index ("edd04e40-fdbe-11ef-ba32-35f931fa5615" "83abf400-fdbf-11ef-ba32-35f931fa5615")}}
-:block/updated-at 1741618491724
+:block/updated-at 1741618528394
 :block/created-at 1741618170582
 :block/type "whiteboard"
 :block/name "pizzara 2 back-end"
