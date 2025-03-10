@@ -8,7 +8,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "67cefb64-0db1-416f-b770-e0f7c8578597"} 
-{:block/created-at 1741618101347
+{:block/created-at 1741618142239
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -25,17 +25,17 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [2376 121.99999764561656]
+:size [6672 122.00000121254106]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
 :id "80748c30-fdbe-11ef-ba32-35f931fa5615"
 :noFill false
-:point [2648 408]
+:point [-1648 384]
 :parentId "67cefabf-29ef-4923-85d2-69c227d919e4"
 :collapsedHeight 0
-:nonce 1741618011342}}
-:block/updated-at 1741618101347} 
+:nonce 1741618011469}}
+:block/updated-at 1741618142239} 
 {:block/content "Aquí tienes una versión simplificada del roadmap para desarrollo frontend basada en **roadmap.sh** y fuentes complementarias, presentada en formato de diagrama textual:\n\n```\n📌 **Ruta Simplificada para Frontend** (basada en roadmap.sh) \n\n1. 📚 **Fundamentos Esenciales**\n   ├── HTML5 (estructura semántica)\n   ├── CSS3 (flexbox, grid, animaciones)\n   └── JavaScript ES6+ (DOM, eventos, fetch API) \n\n2. 🎨 **Profundización en CSS**\n   ├── Frameworks: Bootstrap/Tailwind \n   ├── Preprocesadores: Sass/Less \n   └── Responsive Design (media queries, mobile-first) \n\n3. ⚡ **JavaScript Avanzado**\n   ├── TypeScript/Flow \n   ├── Webpack/Rollup (empaquetadores) \n   └── NPM/Yarn (gestión de paquetes) \n\n4. 🖥️ **Frameworks/Librerías**\n   ├── React (+ Redux/Router) \n   ├── Vue.js (Vuex/Vue Router)\n   └── Angular (opcional)\n\n5. 🛠️ **Herramientas Adicionales**\n   ├── Git/GitHub (control de versiones) \n   ├── Jest/Testing Library (pruebas) \n   └── APIs REST/GraphQL \n```"
 :block/format :markdown
 :block/left 
@@ -168,7 +168,7 @@
 :block/parent 
 {:block/uuid #uuid "67cefabf-29ef-4923-85d2-69c227d919e4"}
 :block/uuid #uuid "67cefb7a-d33c-4805-85e9-cbf5745241bb"} 
-{:block/created-at 1741618132286
+{:block/created-at 1741618148316
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -193,10 +193,80 @@
 :lineHeight 1.2
 :fontSize 60
 :parentId "67cefabf-29ef-4923-85d2-69c227d919e4"
-:nonce 1741618067039
+:nonce 1741618067043
 :italic false
 :text "```\n📌 **Ruta Simplificada para Frontend** (basada en roadmap.sh) \n\n1. 📚 **Fundamentos Esenciales**\n   ├── HTML5 (estructura semántica)\n   ├── CSS3 (flexbox, grid, animaciones)\n   └── JavaScript ES6+ (DOM, eventos, fetch API) \n\n2. 🎨 **Profundización en CSS**\n   ├── Frameworks: Bootstrap/Tailwind \n   ├── Preprocesadores: Sass/Less \n   └── Responsive Design (media queries, mobile-first) \n\n3. ⚡ **JavaScript Avanzado**\n   ├── TypeScript/Flow \n   ├── Webpack/Rollup (empaquetadores) \n   └── NPM/Yarn (gestión de paquetes) \n\n4. 🖥️ **Frameworks/Librerías**\n   ├── React (+ Redux/Router) \n   ├── Vue.js (Vuex/Vue Router)\n   └── Angular (opcional)\n\n5. 🛠️ **Herramientas Adicionales**\n   ├── Git/GitHub (control de versiones) \n   ├── Jest/Testing Library (pruebas) \n   └── APIs REST/GraphQL \n```\n\n### 🔑 **Recomendaciones Clave** :\n- **Enfoque progresivo**: Domina cada etapa antes de saltar a la siguiente.\n- **Proyectos prácticos**: Crea portfolios con aplicaciones reales (ej: clon de Netflix, e-commerce).\n- **Recursos**: Usa freeCodeCamp, MDN Web Docs y cursos en Platzi/Udemy para practicar.\n- **Comunidad**: Únete a foros como Dev.to o Discord de roadmap.sh para resolver dudas .\n\n👉 **Nota**: La versión completa de roadmap.sh incluye más detalles como accesibilidad, rendimiento y patrones de diseño, pero esta simplificación cubre el 80% esencial para empezar. Puedes consultar el diagrama interactivo en [roadmap.sh/frontend](https://roadmap.sh/frontend) ."}}
-:block/updated-at 1741618132286})
+:block/updated-at 1741618148316} 
+{:block/content "👉 **Nota**: La versión completa de roadmap.sh incluye más detalles como accesibilidad, rendimiento y patrones de diseño, pero esta simplificación cubre el 80% esencial para empezar. Puedes consultar el diagrama interactivo en [roadmap.sh/frontend](https://roadmap.sh/frontend) ."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "67cefb66-e4f0-4d57-acee-46a768543e39"}
+:block/parent 
+{:block/uuid #uuid "67cefabf-29ef-4923-85d2-69c227d919e4"}
+:block/uuid #uuid "67cefbe4-153d-4fea-b8cb-027635db3c46"} 
+{:block/created-at 1741618148398
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "67cefbe4-153d-4fea-b8cb-027635db3c46"
+:scaleLevel "xxl"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 1850.0001885968231]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d22469b0-fdbe-11ef-ba32-35f931fa5615"
+:noFill false
+:isLocked false
+:point [3603.536465065288 3182.304646396637]
+:parentId "67cefabf-29ef-4923-85d2-69c227d919e4"
+:collapsedHeight 0
+:nonce 1741618148301}}
+:block/updated-at 1741618148398} 
+{:block/created-at 1741618148410
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 3
+:scale [1 1]
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "d22490c0-fdbe-11ef-ba32-35f931fa5615"
+:fontWeight 400
+:noFill true
+:point [3449.41 3202]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 0]
+:bindingId "d22490c1-fdbe-11ef-ba32-35f931fa5615"}
+:end 
+{:id "end"
+:canBind true
+:point [3.64 9.31]
+:bindingId "d22490c2-fdbe-11ef-ba32-35f931fa5615"}}
+:decorations 
+{:end "arrow"}
+:parentId "67cefabf-29ef-4923-85d2-69c227d919e4"
+:nonce 1741618148302
+:italic false}}
+:block/updated-at 1741618148410})
 :pages (
 {:block/uuid #uuid "67cefabf-29ef-4923-85d2-69c227d919e4"
 :block/properties 
@@ -205,11 +275,26 @@
 {:id "67cefabf-29ef-4923-85d2-69c227d919e4"
 :name "pizzara 1 front-end"
 :bindings 
-{}
+{:d22490c1-fdbe-11ef-ba32-35f931fa5615 
+{:id "d22490c1-fdbe-11ef-ba32-35f931fa5615"
+:type "line"
+:fromId "d22490c0-fdbe-11ef-ba32-35f931fa5615"
+:toId "a179eab0-fdbe-11ef-ba32-35f931fa5615"
+:handleId "start"
+:point [0.5 0.5]
+:distance 4}
+:d22490c2-fdbe-11ef-ba32-35f931fa5615 
+{:id "d22490c2-fdbe-11ef-ba32-35f931fa5615"
+:type "line"
+:fromId "d22490c0-fdbe-11ef-ba32-35f931fa5615"
+:toId "d22469b0-fdbe-11ef-ba32-35f931fa5615"
+:handleId "end"
+:point [0.5 0.5]
+:distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("80748c30-fdbe-11ef-ba32-35f931fa5615" "a179eab0-fdbe-11ef-ba32-35f931fa5615")}}
-:block/updated-at 1741618132286
+:shapes-index ("80748c30-fdbe-11ef-ba32-35f931fa5615" "a179eab0-fdbe-11ef-ba32-35f931fa5615" "d22469b0-fdbe-11ef-ba32-35f931fa5615" "d22490c0-fdbe-11ef-ba32-35f931fa5615")}}
+:block/updated-at 1741618148426
 :block/created-at 1741617855929
 :block/type "whiteboard"
 :block/name "pizzara 1 front-end"
