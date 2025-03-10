@@ -72,9 +72,7 @@
     ```bash  
     git status  
     ```  
-  
   ---
-  
   ## Buenas Prácticas  
   - **Conventional Commits**:  
     - Seguir las pautas de [Conventional Commits](https://github.com/pvdlg/conventional-commit-types)  
