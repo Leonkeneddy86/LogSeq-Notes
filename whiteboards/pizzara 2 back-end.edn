@@ -8,7 +8,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "67cefc1c-52f6-4fcc-af77-088859964a3c"} 
-{:block/created-at 1741618392315
+{:block/created-at 1741618401617
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -25,17 +25,17 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 40.666663506049254]
+:size [200 40.666663506049254]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
 :id "edd04e40-fdbe-11ef-ba32-35f931fa5615"
 :noFill false
-:point [112 32]
+:point [-3040 32]
 :parentId "67cefbfa-6450-4e24-a6e9-acb49fb1d23f"
 :collapsedHeight 0
-:nonce 1741618194786}}
-:block/updated-at 1741618392315})
+:nonce 1741618194991}}
+:block/updated-at 1741618401617})
 :pages (
 {:block/uuid #uuid "67cefbfa-6450-4e24-a6e9-acb49fb1d23f"
 :block/properties 
@@ -48,7 +48,7 @@
 :nonce 1
 :assets []
 :shapes-index ("edd04e40-fdbe-11ef-ba32-35f931fa5615")}}
-:block/updated-at 1741618392315
+:block/updated-at 1741618401617
 :block/created-at 1741618170582
 :block/type "whiteboard"
 :block/name "pizzara 2 back-end"
