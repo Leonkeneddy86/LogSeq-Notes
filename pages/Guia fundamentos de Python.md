@@ -1,0 +1,1 @@
+- ![lTPKw3b9RietOe4Wwac9_guia_fundamentos_python_mouredevpro.pdf](../assets/lTPKw3b9RietOe4Wwac9_guia_fundamentos_python_mouredevpro_1741705059161_0.pdf)
