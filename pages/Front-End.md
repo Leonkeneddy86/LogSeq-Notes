@@ -1,3 +1,3 @@
 - ![22-CSS-Flexbox-y-Grid.pdf](../assets/22-CSS-Flexbox-y-Grid_1741705306588_0.pdf)
--
--
+- ![Accesibilidad WEB.pdf](../assets/Accesibilidad_WEB_1741705316050_0.pdf)
+- ![Estructura HTML.png](../assets/Estructura_HTML_1741705326731_0.png)
