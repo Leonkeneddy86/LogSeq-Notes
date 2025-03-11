@@ -1,1 +1,1 @@
-- ![Relación de Tablas en una App en Laravel 11.png](../assets/Relación_de_Tablas_en_una_App_en_Laravel_11_1741704492151_0.png)
+- ![Relación de Tablas en una App en Laravel 11.png](../assets/Relación_de_Tablas_en_una_App_en_Laravel_11_1741704492151_0.png){:height 1294, :width 868}
