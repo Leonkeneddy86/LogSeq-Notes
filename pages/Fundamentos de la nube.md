@@ -1,4 +1,3 @@
 - ![Fundamentos-de-la-nube-I.pdf](../assets/Fundamentos-de-la-nube-I_1741705155923_0.pdf)
 - ![Fundamentos-de-la-nube-II.pdf](../assets/Fundamentos-de-la-nube-II_1741705163872_0.pdf)
 -
--
