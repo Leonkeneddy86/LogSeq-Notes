@@ -3,4 +3,6 @@
 - ![El gran libro de Android 6ta edición.pdf](../assets/El_gran_libro_de_Android_6ta_edición_1741705632345_0.pdf)
 - ![Curso Android Studio.pdf](../assets/Curso_Android_Studio_1741705636708_0.pdf)
 - ![Curso_Kotlin.pdf](../assets/Curso_Kotlin_1741705641725_0.pdf)
+- ![Kotlin - José Dimas Castillo.pdf](../assets/Kotlin_-_José_Dimas_Castillo_1741705650280_0.pdf)
+- ![El gran libro de Android Avanzado 5ªEd.pdf](../assets/El_gran_libro_de_Android_Avanzado_5ªEd_1741705655425_0.pdf)
 -
