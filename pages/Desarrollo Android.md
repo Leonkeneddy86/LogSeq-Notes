@@ -1,3 +1,6 @@
 - ![Ruta para ser Android Developer.pdf](../assets/Ruta_para_ser_Android_Developer_1741705597963_0.pdf)
 - ![Libro de KOTLIN.pdf](../assets/Libro_de_KOTLIN_1741705624318_0.pdf)
+- ![El gran libro de Android 6ta edición.pdf](../assets/El_gran_libro_de_Android_6ta_edición_1741705632345_0.pdf)
+- ![Curso Android Studio.pdf](../assets/Curso_Android_Studio_1741705636708_0.pdf)
+- ![Curso_Kotlin.pdf](../assets/Curso_Kotlin_1741705641725_0.pdf)
 -
