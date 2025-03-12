@@ -1,0 +1,1 @@
+- ![Guia de fundamentos JavaScript.pdf](../assets/Guia_de_fundamentos_JavaScript_1741771052227_0.pdf)
