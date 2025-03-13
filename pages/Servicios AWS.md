@@ -1,2 +1,5 @@
 - ![Amazon RDS.pdf](../assets/Amazon_RDS_1741850325248_0.pdf)
+- ![AWS Aurora Presentacion.pdf](../assets/AWS_Aurora_Presentacion_1741850338552_0.pdf)
+- ![AWS Redshift.pdf](../assets/AWS_Redshift_1741850344008_0.pdf)
+- ![DynamoDB.pdf](../assets/DynamoDB_1741850348735_0.pdf)
 -
