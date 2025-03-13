@@ -1,0 +1,1 @@
+- ![SOLID.pdf](../assets/SOLID_1741850412408_0.pdf)
