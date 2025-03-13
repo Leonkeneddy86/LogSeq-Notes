@@ -1,1 +1,3 @@
 - ![SOLID.pdf](../assets/SOLID_1741850412408_0.pdf)
+- ![Principios(1).pdf](../assets/Principios(1)_1741850441734_0.pdf)
+-
