@@ -1,2 +1,3 @@
 - ![photo_2025-02-26_15-36-35.jpg](../assets/photo_2025-02-26_15-36-35_1741850298460_0.jpg)
 - ![linux_for_dummies.pdf](../assets/linux_for_dummies_1741850380258_0.pdf)
+- ![Comandos_Linux.pdf](../assets/Comandos_Linux_1741944285769_0.pdf)
